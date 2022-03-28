@@ -1,0 +1,11 @@
+focus_tree = { #インドのNF
+  id = india_national_focus
+ 	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CHI
+			has_dlc = "Waking the Tiger"
+		}
+	}
+  default = no
