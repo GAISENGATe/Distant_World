@@ -1,0 +1,13 @@
+#インドNF(試作)
+
+focus_tree = {
+    id = #現在不明
+    country = {
+       factor = 0
+         modifire = {
+           add = 10
+           tag = #現在不明
+        }
+    }
+    default = no
+}
